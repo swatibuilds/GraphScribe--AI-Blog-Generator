@@ -1,0 +1,7 @@
+langgraph
+langchain-core
+langchain-community
+langchain-ollama
+pydantic
+dotenv
+streamlit
